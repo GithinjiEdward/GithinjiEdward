@@ -3,7 +3,10 @@
 💡 Data & Risk Analyst | IT Systems Specialist | Cybersecurity Enthusiast  
 📍 Kenya | 🌍 Open to global opportunities  
 
-I specialize in building **data-driven systems** that improve decision-making, operational efficiency, and risk management. My work sits at the intersection of:
+I have a background in IT support, where I have gained experience in troubleshooting systems, managing networks, and ensuring reliable day-to-day technical operations. Building on this foundation, I am currently specializing in data analytics and cybersecurity, working with tools such as Python and Excel to analyze data, uncover patterns, and support informed decision-making, while focusing on identifying vulnerabilities and strengthening system security.
+I bring a strong combination of technical problem-solving, analytical thinking, and a proactive approach to risk management. What sets me apart is my ability to go beyond resolving issues, leveraging data and security principles to identify risks and improve system performance proactively.
+I bring value by helping organizations reduce system downtime, improve decision-making through data insights, and strengthen their security posture by leveraging my data analyst skills and IT background.
+My work sits at the intersection of:
 
 - 📊 Data Analytics & Visualization  
 - 🔐 Cybersecurity & Risk Analysis  
