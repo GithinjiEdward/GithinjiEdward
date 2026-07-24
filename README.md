@@ -24,13 +24,13 @@ I am continuously expanding my expertise in cybersecurity and data analytics, co
 ## 📂 Featured Projects
 
 ### 🛠️ IT Operations
-#### IT Support Toolkit
+#### ↪️ IT Support Toolkit
 - Centralizes Windows diagnostics, system repair, and IT support workflows
 - Includes network troubleshooting, software management, and remote support tools
 - Automates common administrative tasks using Python and PowerShell
 - Built with CustomTkinter for a modern desktop experience
 
-#### IT Asset Management Dashboard
+#### ↪️ IT Asset Management Dashboard
 - Monitors organizational IT assets, allocation, warranty, and inventory
 - Interactive reporting using Pivot Tables, slicers, and conditional formatting
 - Simplifies asset tracking and lifecycle management
@@ -38,7 +38,7 @@ I am continuously expanding my expertise in cybersecurity and data analytics, co
 ---
 
 ### 🤖 Process Automation
-#### Sales Process Automation System
+#### ↪️ Sales Process Automation System
 - Automates the end-to-end sales order processing workflow
 - Captures field agent submissions through Google Forms and stores them in Google Sheets
 - Automatically retrieves submitted records and populates a web-based business system
@@ -47,14 +47,14 @@ I am continuously expanding my expertise in cybersecurity and data analytics, co
 ---
 
 ### 📊 Data Analytics & Reporting
-#### MPESA Statement Analyzer
+#### ↪️ MPESA Statement Analyzer
 🔗 https://munwardconsulting-mpesa-analyzer.streamlit.app/
 - Analyzes M-PESA statements to uncover spending patterns, cash flow, and recurring transactions
 - Extracts and categorizes data from password-protected PDF statements into actionable insights
 - Visualizes financial trends through interactive dashboards and exports reports to Excel
 - (Upcoming) CatBoost-based anomaly detection
 
-#### Employee Performance Dashboard
+#### ↪️ Employee Performance Dashboard
 - Tracks employee KPIs and productivity using interactive Excel dashboards
 - Uses Pivot Tables, charts, slicers, and formulas for dynamic reporting
 - Supports performance monitoring and management decision-making
@@ -62,17 +62,17 @@ I am continuously expanding my expertise in cybersecurity and data analytics, co
 ---
 
 ### 📱 Business Applications & Enterprise Systems
-#### 💼 Payroll System
+#### ↪️ Payroll System
 - Automates payroll processing with support for Kenyan statutory deductions, including PAYE, SHIF, NSSF, and Housing Levy
 - Generates employee payslips, P9 forms, and payroll reports while maintaining accurate employee records
 - Streamlines payroll administration through automated calculations, reporting, and compliance workflows
 
-#### 🏢 HR Management System (HRMS)
+#### ↪️ HR Management System (HRMS)
 - Centralizes employee records, attendance, leave management, and workforce administration in a single platform
 - Tracks recruitment, contracts, employee performance, and organizational KPIs through interactive dashboards
 - Simplifies HR operations by automating routine administrative processes and improving workforce visibility
 
-#### 🛒 Multi-Tenant POS System (Eatery POS)
+#### ↪️ Multi-Tenant POS System (Eatery POS)
 - Developed a scalable, offline-first Point of Sale application for food businesses
 - Enables sales, inventory, staff management, and business analytics in one mobile platform
 - Synchronizes data with Firebase while maintaining functionality in low-connectivity environments
