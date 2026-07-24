@@ -1,107 +1,90 @@
 # 👋 Hi, I'm Edward Githinji
 
-💡 Data & Risk Analyst | IT Systems Specialist | Cybersecurity Enthusiast  
-📍 Kenya | 🌍 Open to global opportunities  
+💡 💻 IT Infrastructure & Support Specialist | Process Automation | Cybersecurity Enthusiast  
+📍 Kenya | 🌍 Open to opportunities  
 
-I have a background in IT support, where I have gained experience in troubleshooting systems, managing networks, and ensuring reliable day-to-day technical operations. Building on this foundation, I am currently specializing in data analytics and cybersecurity, working with tools such as Python and Excel to analyze data, uncover patterns, and support informed decision-making, while focusing on identifying vulnerabilities and strengthening system security.
-I bring a strong combination of technical problem-solving, analytical thinking, and a proactive approach to risk management. What sets me apart is my ability to go beyond resolving issues, leveraging data and security principles to identify risks and improve system performance proactively.
-I bring value by helping organizations reduce system downtime, improve decision-making through data insights, and strengthen their security posture by leveraging my data analyst skills and IT background.
-My work sits at the intersection of:
+I am an IT Officer with hands-on experience supporting enterprise IT infrastructure, managing networks, administering user accounts, maintaining business systems, and delivering technical support that keeps organizations running efficiently. My work spans system administration, network troubleshooting, hardware deployment, security, and process automation.
 
-- 📊 Data Analytics & Visualization  
-- 🔐 Cybersecurity & Risk Analysis  
-- 🖥️ Business Systems Development  
+Beyond day-to-day IT operations, I enjoy building automation solutions that eliminate repetitive tasks and improve operational efficiency. I have developed tools using Python, Selenium, Excel, and SQL to automate business processes, streamline reporting, and enhance productivity.
+
+I am continuously expanding my expertise in cybersecurity and data analytics, combining technical operations with analytical problem-solving to strengthen system reliability, improve decision-making, and support secure digital transformation.
 
 ---
 
 ## 🚀 What I Do
-
-- Transform raw data into **actionable insights and dashboards**
-- Build **custom business systems** (HRMS, Payroll, POS)
-- Analyze financial and transactional data for **patterns & anomalies**
-- Apply **security principles** to protect systems and data
-- Improve workflows through **automation and structured reporting**
-
----
-
-## 🧠 Tech Stack
-
-**Languages & Tools**
-- Python (Pandas, Streamlit)
-- SQL
-- Excel (Advanced)
-- Power BI
-
-**Systems & Platforms**
-- SQLite
-- Firebase
-- CustomTkinter
-- Git & GitHub
-
-**Cybersecurity**
-- Network Fundamentals
-- Threat Detection (Learning)
-- Risk & Vulnerability Awareness
-- TryHackMe Labs
+- 🖥️ Provide enterprise IT support and systems administration
+- 🌐 Configure and troubleshoot network infrastructure
+- 🔐 Implement security best practices and monitor system health
+- 🤖 Automate business workflows using Python and Selenium
+- 📊 Build dashboards and analytical reports using Excel and SQL
+- ⚙️ Develop business tools that improve operational efficiency
 
 ---
 
 ## 📂 Featured Projects
 
-### 📊 MPESA Statement Analyzer
-🔗 https://munwardconsulting-mpesa-analyzer.streamlit.app/
+### 🛠️ IT Operations
+#### IT Support Toolkit
+- Centralizes Windows diagnostics, system repair, and IT support workflows
+- Includes network troubleshooting, software management, and remote support tools
+- Automates common administrative tasks using Python and PowerShell
+- Built with CustomTkinter for a modern desktop experience
 
-- Parses MPESA statements into structured datasets
-- Generates insights on spending, income, and trends
-- Detects recurring transactions and anomalies
+---
+
+### 🤖 Process Automation
+#### Sales Process Automation System
+- Automates the end-to-end sales order processing workflow
+- Captures field agent submissions through Google Forms and stores them in Google Sheets
+- Automatically retrieves submitted records and populates a web-based business system
+- Eliminates repetitive manual data entry while improving processing speed and accuracy
+
+---
+
+### 📊 Data Analytics
+#### MPESA Statement Analyzer
+🔗 https://munwardconsulting-mpesa-analyzer.streamlit.app/
+- Analyzes M-PESA statements to uncover spending patterns, cash flow, and recurring transactions
+- Extracts and categorizes data from password-protected PDF statements into actionable insights
+- Visualizes financial trends through interactive dashboards and exports reports to Excel
 - (Upcoming) CatBoost-based anomaly detection
 
 ---
 
-### 💼 Munward Payroll System
-- Automated payroll calculations (PAYE, NSSF, SHIF, Housing Levy)
-- Generates payslips and P9 reports
-- Built for Kenyan compliance
-- PDF reporting with professional formatting
+### 📱 Business Applications
+#### 💼 Payroll System
+- Automates payroll processing with support for Kenyan statutory deductions, including PAYE, SHIF, NSSF, and Housing Levy
+- Generates employee payslips, P9 forms, and payroll reports while maintaining accurate employee records
+- Streamlines payroll administration through automated calculations, reporting, and compliance workflows
+
+#### 🏢 HR Management System (HRMS)
+- Centralizes employee records, attendance, leave management, and workforce administration in a single platform
+- Tracks recruitment, contracts, employee performance, and organizational KPIs through interactive dashboards
+- Simplifies HR operations by automating routine administrative processes and improving workforce visibility
+
+#### 🛒 Multi-Tenant POS System (Eatery POS)
+- Developed a scalable, offline-first Point of Sale application for food businesses
+- Enables sales, inventory, staff management, and business analytics in one mobile platform
+- Synchronizes data with Firebase while maintaining functionality in low-connectivity environments
 
 ---
 
-### 🏢 HR Management System (HRMS)
-- Employee tracking, attendance, leave management
-- Dashboard with workforce analytics & KPIs
-- Hiring pipeline & contract monitoring
-- Built using CustomTkinter + SQLite
+## 📈 Currently Learning & Building
+- 🖥️ Windows Server Administration & Active Directory
+- 📊 Data Analytics (SQL, Power BI & Advanced Excel)
+- 🤖 Enterprise Process Automation with Python
+- 🔐 Cybersecurity & Security Operations (SOC)
+- ☁️ Microsoft Azure & Cloud Infrastructure
+- 🌐 Enterprise Networking & Systems Administration
 
 ---
 
-### 🛒 Multi-Tenant POS System (Eatery POS)
-- Supports multiple businesses
-- Real-time sales tracking & reporting
-- Firebase backend with offline capability
-- (upcoming) Thermal receipt printing integration
-
----
-
-## 📈 Current Focus
-
-- Data Analytics & Visualization
-- Cybersecurity (SOC & Threat Detection)
-- Risk Analysis & Anomaly Detection
-- Building scalable analytics tools
-
----
-
-## 🎯 Career Goal
-
-To become a **Data & Risk Analyst**, leveraging data analytics and cybersecurity to:
-- Detect risks early  
-- Improve decision-making  
-- Strengthen organizational systems  
+## 🎯 Career Vision
+To design, secure, and automate enterprise IT environments by combining infrastructure management, systems administration, cybersecurity, and software development to deliver reliable, scalable, and efficient technology solutions.  
 
 ---
 
 ## 📫 Let's Connect
-
 - LinkedIn: https://www.linkedin.com/in/edward-kagunya-b549b83aa/
 - GitHub: https://github.com/GithinjiEdward
 
