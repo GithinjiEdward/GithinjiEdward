@@ -78,7 +78,7 @@ My work sits at the intersection of:
 - Supports multiple businesses
 - Real-time sales tracking & reporting
 - Firebase backend with offline capability
-- Thermal receipt printing integration
+- (upcoming) Thermal receipt printing integration
 
 ---
 
