@@ -30,6 +30,11 @@ I am continuously expanding my expertise in cybersecurity and data analytics, co
 - Automates common administrative tasks using Python and PowerShell
 - Built with CustomTkinter for a modern desktop experience
 
+#### IT Asset Management Dashboard
+- Monitors organizational IT assets, allocation, warranty, and inventory
+- Interactive reporting using Pivot Tables, slicers, and conditional formatting
+- Simplifies asset tracking and lifecycle management
+
 ---
 
 ### 🤖 Process Automation
@@ -41,7 +46,7 @@ I am continuously expanding my expertise in cybersecurity and data analytics, co
 
 ---
 
-### 📊 Data Analytics
+### 📊 Data Analytics & Reporting
 #### MPESA Statement Analyzer
 🔗 https://munwardconsulting-mpesa-analyzer.streamlit.app/
 - Analyzes M-PESA statements to uncover spending patterns, cash flow, and recurring transactions
@@ -49,9 +54,14 @@ I am continuously expanding my expertise in cybersecurity and data analytics, co
 - Visualizes financial trends through interactive dashboards and exports reports to Excel
 - (Upcoming) CatBoost-based anomaly detection
 
+#### Employee Performance Dashboard
+- Tracks employee KPIs and productivity using interactive Excel dashboards
+- Uses Pivot Tables, charts, slicers, and formulas for dynamic reporting
+- Supports performance monitoring and management decision-making
+
 ---
 
-### 📱 Business Applications
+### 📱 Business Applications & Enterprise Systems
 #### 💼 Payroll System
 - Automates payroll processing with support for Kenyan statutory deductions, including PAYE, SHIF, NSSF, and Housing Levy
 - Generates employee payslips, P9 forms, and payroll reports while maintaining accurate employee records
